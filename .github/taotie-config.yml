@@ -4,7 +4,7 @@
 baseBranch: main
 
 # Execution command to run
-exec: npm run taotie:fix
+exec: yarn taotie:fix
 
 # Show interactive comment
 commentInteractive: true
